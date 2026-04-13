@@ -18,3 +18,9 @@ x64\Debug\pg1.exe
 ```
 
 ***
+### blog
+
+https://zenn.dev/knaka0209/scraps/6e208650ddc770
+
+
+***
