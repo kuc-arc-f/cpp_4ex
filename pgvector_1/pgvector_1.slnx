@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pgvector_1/pgvector_1.vcxproj" Id="a6f397ef-f3da-442b-b31d-da2569c4cf60" />
+</Solution>
