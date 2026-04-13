@@ -16,4 +16,10 @@ C++ win, http-client example
 ```
 x64\Debug\http_client_1.exe
 ```
+
+***
+### blog
+
+https://zenn.dev/knaka0209/scraps/20778e23c80fd0
+
 ***
