@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="json_2/json_2.vcxproj" Id="9a189687-4def-44e7-9a1e-7f594c0f7108" />
+</Solution>
