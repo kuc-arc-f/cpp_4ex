@@ -56,3 +56,7 @@ x64\Debug\rag_1.exe embed ./data
 x64\Debug\rag_1.exe search hello
 ```
 ***
+### blog
+
+https://zenn.dev/knaka0209/scraps/115a7c8ec33557
+
