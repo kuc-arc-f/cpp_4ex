@@ -13,6 +13,7 @@ C++ windows , RAG Search + PGVector DB
 * model: gemma-4-E2B-it-Q4_K_S.gguf
 * Embedding-model : Qwen3-Embedding-0.6B-Q8_0.gguf
 * llama.cpp , llama-server
+* Visual studio Community 2026 use
 
 ***
 ### setup
